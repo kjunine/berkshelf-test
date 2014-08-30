@@ -1,0 +1,7 @@
+name             'berkshelf-test'
+maintainer       'Daniel Ku'
+maintainer_email 'kjunine@gmail.com'
+license          'MIT'
+description      'Berkshelf Test'
+long_description 'Berkshelf Test'
+version          '0.1.0'
